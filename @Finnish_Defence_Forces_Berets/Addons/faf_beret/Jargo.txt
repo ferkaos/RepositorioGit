@@ -1,0 +1,10 @@
+Authority:  MORATTY
+Creation:   13.11.2016 17.04.10 (by DESKTOP-MLTU5MJ\Ilari)
+
+== PRIVATE KEY ==
+File: C:\Users\Ilari\Desktop\FiAF_Beret\FAF_Beret\Jargo.biprivatekey
+MD5: E28DE305FAEBBD8CB9D5816028ABF4E0
+== PUBLIC KEY ==
+File: C:\Users\Ilari\Desktop\FiAF_Beret\FAF_Beret\Jargo.bikey
+MD5: 811C22187283EAAB2198516D90F6D5AC
+
